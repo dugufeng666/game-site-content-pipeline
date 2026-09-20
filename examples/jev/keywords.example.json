@@ -1,0 +1,43 @@
+{
+  "project_name": "jev_ai",
+  "topic_name": "jev",
+  "language": "en",
+  "notes": "Use topic_name 'jev' when YouTube/source titles often omit the full phrase 'jev ai'. Keep keywords specific to avoid unrelated matches.",
+  "categories": [
+    {
+      "category": "guide",
+      "keywords": [
+        "jev ai explained",
+        "jev ai tutorial",
+        "jev ai beginner guide",
+        "jev ai how to use"
+      ]
+    },
+    {
+      "category": "model",
+      "keywords": [
+        "jev ai model",
+        "jev ai decision model",
+        "jev ai classification model",
+        "jev ai structured output"
+      ]
+    },
+    {
+      "category": "api",
+      "keywords": [
+        "jev ai api",
+        "jev ai docs",
+        "jev ai quickstart",
+        "jev ai sdk"
+      ]
+    },
+    {
+      "category": "comparison",
+      "keywords": [
+        "jev ai vs chatgpt",
+        "jev ai vs claude",
+        "jev ai vs llm"
+      ]
+    }
+  ]
+}

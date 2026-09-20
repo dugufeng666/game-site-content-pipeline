@@ -1,0 +1,36 @@
+{
+  "project_name": "aniimo",
+  "topic_name": "aniimo",
+  "language": "en",
+  "categories": [
+    {
+      "category": "guide",
+      "keywords": [
+        "aniimo guide",
+        "aniimo beginner guide",
+        "aniimo mysterious presence",
+        "aniimo sparkling",
+        "whos that aniimo"
+      ]
+    },
+    {
+      "category": "creatures",
+      "keywords": [
+        "aniimo creatures",
+        "aniimo astrophel",
+        "aniimo blazen",
+        "leafy aniimo",
+        "pomawk aniimo"
+      ]
+    },
+    {
+      "category": "meta",
+      "keywords": [
+        "aniimo tier list",
+        "aniimo codes",
+        "aniimo prismana pact",
+        "aniimo best prismana"
+      ]
+    }
+  ]
+}

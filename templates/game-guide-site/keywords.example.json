@@ -1,0 +1,31 @@
+{
+  "project_name": "sample_game",
+  "topic_name": "sample game",
+  "language": "en",
+  "categories": [
+    {
+      "category": "guide",
+      "keywords": [
+        "sample game guide",
+        "sample game beginner guide",
+        "sample game how to play"
+      ]
+    },
+    {
+      "category": "wiki",
+      "keywords": [
+        "sample game wiki",
+        "sample game creatures",
+        "sample game map"
+      ]
+    },
+    {
+      "category": "meta",
+      "keywords": [
+        "sample game tier list",
+        "sample game codes",
+        "sample game best build"
+      ]
+    }
+  ]
+}

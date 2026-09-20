@@ -1,0 +1,31 @@
+{
+  "project_name": "sample_ai_product",
+  "topic_name": "sample ai",
+  "language": "en",
+  "categories": [
+    {
+      "category": "guide",
+      "keywords": [
+        "sample ai explained",
+        "sample ai tutorial",
+        "sample ai beginner guide"
+      ]
+    },
+    {
+      "category": "api",
+      "keywords": [
+        "sample ai api",
+        "sample ai docs",
+        "sample ai quickstart"
+      ]
+    },
+    {
+      "category": "comparison",
+      "keywords": [
+        "sample ai vs chatgpt",
+        "sample ai alternatives",
+        "sample ai use cases"
+      ]
+    }
+  ]
+}

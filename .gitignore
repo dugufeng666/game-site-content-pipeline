@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+content-pipeline/.env
+*/output/
+*/digest/
+*/cache/
+*/transcripts/
+*.log
